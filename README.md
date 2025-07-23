@@ -1,8 +1,8 @@
 # Data-Analysis-using-SQL-Library-Database
 
-Questions.
+**Questions.**
 
-Easy.
+**Easy.**
 
 Find all books borrowed by John.
 
@@ -26,7 +26,7 @@ Find the books borrowed within a specific date range (e.g., between '2023-08-01'
 
 Determine the most popular genre in the library based on the number of books borrowed 
 
-Intermediate.
+**Intermediate.**
 
 Find overdue books (books that have not been returned in 30 days):
 
@@ -36,7 +36,7 @@ Identify members who have borrowed more than one book:
 
 List all books and their corresponding authors that have been borrowed at least twice:
 
-Advance.
+**Advance.**
 
 Find the difference in the number of books borrowed between two specific members (e.g., 'John Doe' and 'Alice Johnson'):
 
@@ -46,6 +46,6 @@ Find the most borrowed book
 
 Identify the member who has borrowed the most books 
 
-Schema
+**Schema**
 <img width="1025" height="574" alt="Library Schema" src="https://github.com/user-attachments/assets/391eb22b-4955-47f0-bf9a-233467934721" />
 
